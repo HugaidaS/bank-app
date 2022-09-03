@@ -2,10 +2,11 @@
 
 Mobile-friendly landing page built with Vite + Tailwind CSS + React + TypeScript
 
-## Start this project locally
+## Installation
 
 ```bash
 gh repo clone Ellinsa/bank-app
+cd bank-app
 ```
 
 ```bash
