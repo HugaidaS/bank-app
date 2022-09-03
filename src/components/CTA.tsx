@@ -13,7 +13,7 @@ const CTA = () => (
         the planet.
       </p>
     </div>
-    <div className={`${styles.flexCenter} sm:ml-10 sm:mt-0 sm:mb-0 ml-0 mb-3`}>
+    <div className={`${styles.flexCenter} sm:ml-10 sm:my-0 ml-0 my-6`}>
       <Button styles="rounded-lg" text="Get Started" />
     </div>
   </section>
